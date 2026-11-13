@@ -1,0 +1,15 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- أسطوانة بنفسجية بأخاديد + زر تشغيل + موجتا صوت بلون الفيروز -->
+    <path android:fillColor="#8B6CFF" android:pathData="M54,54m-27,0a27,27 0,1 1,54 0a27,27 0,1 1,-54 0"/>
+    <path android:strokeColor="#13152B" android:strokeWidth="1.6" android:fillColor="#00000000"
+        android:pathData="M54,54m-21,0a21,21 0,1 1,42 0a21,21 0,1 1,-42 0"/>
+    <path android:strokeColor="#13152B" android:strokeWidth="1.2" android:fillColor="#00000000"
+        android:pathData="M54,54m-15.5,0a15.5,15.5 0,1 1,31 0a15.5,15.5 0,1 1,-31 0"/>
+    <path android:fillColor="#F3F1FF" android:pathData="M49,44.5 L64,54 L49,63.5 Z"/>
+    <path android:strokeColor="#2EE6C8" android:strokeWidth="3.2" android:strokeLineCap="round" android:fillColor="#00000000"
+        android:pathData="M85,42 Q91,54 85,66"/>
+    <path android:strokeColor="#2EE6C8" android:strokeWidth="3.2" android:strokeLineCap="round" android:fillColor="#00000000"
+        android:pathData="M23,42 Q17,54 23,66"/>
+</vector>
